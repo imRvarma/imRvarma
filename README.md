@@ -1,16 +1,146 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 
-<!--
-**imRvarma/imRvarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • Frontend Developer • Open Source Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications and exploring Artificial Intelligence.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="linkedin.com/in/rahul-kumar-105068257">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/varma.imrahul/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:rahulichari@gmail,com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Science Engineering Student at Cambridge Institute of Technology, Bangalore
+
+💻 Full Stack Developer passionate about creating impactful products
+
+🌱 Currently learning:
+
+* Advanced JavaScript
+* React Ecosystem
+* Node.js
+* System Design
+* Data Structures & Algorithms
+
+🎯 Career Goal:
+Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### Programming Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=imRvarma&theme=algolia&margin-w=15&margin-h=15"/>
+
+---
+
+# 📊 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imRvarma&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imRvarma&layout=compact&theme=tokyonight"/>
+
+---
+
+# 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=imRvarma&theme=tokyonight"/>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imRvarma&theme=tokyo-night"/>
+
+---
+
+# 🚀 Featured Projects
+
+### Portfolio Website
+
+Short description of your portfolio.
+
+### NGO Website Project
+
+Frontend project created for social impact.
+
+### React Projects
+
+Collection of modern React applications.
+
+### JavaScript Projects
+
+Mini projects demonstrating core JavaScript concepts.
+
+---
+
+# 📚 Currently Learning
+
+* Full Stack Development
+* DSA in Java
+* React Ecosystem
+* Backend Development
+* AI
+
+---
+
+# 💡 Developer Philosophy
+
+"Consistency beats intensity. Small improvements every day compound into extraordinary results."
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following me and checking out my repositories.
+</p>
+
+# 💼 Dream Companies
+Since these are your target companies:
+
+Google
+Microsoft
+Amazon
+Meta
+Uber
+Morgan Stanley
+<p align="center">
+Targeting Software Engineering roles at Google, Microsoft, Amazon, Meta, Uber, and Morgan Stanley.
+</p>
+
