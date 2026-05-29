@@ -131,16 +131,4 @@ Mini projects demonstrating core JavaScript concepts.
 ⭐ If you like my work, consider following me and checking out my repositories.
 </p>
 
-# 💼 Dream Companies
-Since these are your target companies:
-
-Google
-Microsoft
-Amazon
-Meta
-Uber
-Morgan Stanley
-<p align="center">
-Targeting Software Engineering roles at Google, Microsoft, Amazon, Meta, Uber, and Morgan Stanley.
-</p>
 
