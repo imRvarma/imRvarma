@@ -8,13 +8,13 @@ Frontend Developer • Full Stack Developer • Open Source Enthusiast
 Building scalable web applications and exploring Artificial Intelligence.
 </p>
 <p align="center">
-  <a href="linkedin.com/in/rahul-kumar-105068257">
+  <a href="https://www.linkedin.com/in/rahul-kumar-105068257/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/varma.imrahul/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="mailto:rahulichari@gmail,com">
+  <a href="mailto:rahulichari@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
