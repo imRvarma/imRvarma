@@ -7,7 +7,6 @@ Full Stack Developer • Frontend Developer • Open Source Enthusiast
 <p align="center">
 Building scalable web applications and exploring Artificial Intelligence.
 </p>
-
 <p align="center">
   <a href="linkedin.com/in/rahul-kumar-105068257">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
@@ -88,6 +87,11 @@ Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRvarma&theme=tokyo-night"/>
+
+---
+# 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/QFngLFzgPC?theme=dark\&font=Nunito\&ext=contest)
 
 ---
 
