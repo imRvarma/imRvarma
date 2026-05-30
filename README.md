@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • Frontend Developer • Open Source Enthusiast
+Frontend Developer • Full Stack Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
