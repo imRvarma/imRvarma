@@ -74,8 +74,6 @@ Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imRvarma&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imRvarma&layout=compact&theme=tokyonight"/>
-
 ---
 
 # 🔥 Contribution Streak
@@ -99,20 +97,7 @@ Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
 
 ### Portfolio Website
 
-Short description of your portfolio.
-
-### NGO Website Project
-
-Frontend project created for social impact.
-
-### React Projects
-
-Collection of modern React applications.
-
-### JavaScript Projects
-
-Mini projects demonstrating core JavaScript concepts.
-
+A fully responsive personal portfolio website showcasing projects, skills, and contact information, optimized for all devices with smooth navigation and modern UI design
 ---
 
 # 📚 Currently Learning
