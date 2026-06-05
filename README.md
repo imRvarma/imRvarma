@@ -64,21 +64,21 @@ Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=imRvarma&theme=algolia&margin-w=15&margin-h=15"/>
-
----
-
-# 📊 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imRvarma&show_icons=true&theme=tokyonight"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=imRvarma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# 🔥 Contribution Streak
+## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=imRvarma&theme=tokyonight"/>
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=imRvarma&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imRvarma)](https://git.io/streak-stats)
 
 ---
 
