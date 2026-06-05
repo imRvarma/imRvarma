@@ -18,10 +18,10 @@ Building scalable web applications and exploring Artificial Intelligence.
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imRvarma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
----
 
 # 🚀 About Me
 
@@ -49,8 +49,6 @@ Software Engineer at Google, Microsoft, Amazon, Meta, Uber, Morgan Stanley
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Programming Languages
 
