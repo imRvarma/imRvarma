@@ -18,7 +18,9 @@ Building scalable web applications and exploring Artificial Intelligence.
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imRvarma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 
 # 🚀 About Me
